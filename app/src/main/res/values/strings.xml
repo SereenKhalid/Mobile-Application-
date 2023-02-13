@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SEUcinemaApp</string>
+
+    <string-array name="movies_full_txt">
+        <item> The Menu</item>
+        <item> Hunt </item>
+        <item> Luck </item>
+        <item> On The Line </item>
+        <item> Avatar </item>
+        <item> Troll </item>
+        <item> Beast </item>
+        <item> The Sea Beast </item>
+        <item> The Bad Guys </item>
+        <item> Smile</item>
+    </string-array>
+
+    <string-array name="movies_three_letter_txt">
+        <item>  the menu </item>
+        <item> hunt </item>
+        <item> luck </item>
+        <item> on the line </item>
+        <item> Avatar </item>
+        <item> troll </item>
+        <item> beast </item>
+        <item> the sea beast </item>
+        <item> bad guys </item>
+        <item> smile </item>
+    </string-array>
+
+    <string-array name="movies_one_letter_txt">
+        <item> M </item>
+        <item> H </item>
+        <item> L </item>
+        <item> I </item>
+        <item> V </item>
+        <item> T </item>
+        <item> B </item>
+        <item> S </item>
+        <item> D </item>
+        <item> S </item>
+    </string-array>
+</resources>

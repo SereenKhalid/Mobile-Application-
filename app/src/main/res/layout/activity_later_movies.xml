@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#74CCC9"
+    android:orientation="vertical"
+    tools:context=".LaterMovies">
+
+
+    <ListView
+        android:id="@+id/listViewDar"
+        android:layout_width="match_parent"
+        android:layout_height="295dp"
+        android:layout_margin="10dp"
+        android:padding="40dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="List of cinemas that provide tickets"
+        android:textColor="#041363"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnalert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginRight="100dp"
+        android:text="ticket payment"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>
